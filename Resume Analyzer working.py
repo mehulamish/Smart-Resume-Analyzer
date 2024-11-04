@@ -198,7 +198,7 @@ def run():
 
             # Parse the resume using the extracted text
             if resume_text:
-                st.success("Resume Analysis")
+                st.success("Resume Analysis Successful")
 
                 # Display basic information (This can be improved with proper parsing)
                 st.subheader("Extracted Resume Text:")
