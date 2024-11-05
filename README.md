@@ -94,5 +94,5 @@ Creates a gradient line indicating sentiment, with a cursor to show the score.
 ## Customization
 
 The `quality_datasets` dictionary in the code can be updated to add or modify personality traits and associated skills for improved analysis.
-Further `alldataskillandnonskills.csv` csv file can be used to identify more skills to get better results.
+Further `all_data_skill_and_non_skills.csv` csv file can be used to identify more skills to get better results.
 
